@@ -1,6 +1,7 @@
 import image1 from "../img/hajib.jpg"
 import image2 from "../img/saad.jpg"
 import image3 from "../img/7toun.jpg"
+import image4 from "../img/eminem-versability.jpg"
 const data = [
      {
       id: 1,
@@ -22,6 +23,13 @@ const data = [
       name: "7TOUN",
       time: "1:00 AM",
       place: "📍 SCENE NAHDA",
-     }
+     },
+      {
+      id: 4,
+      img: image4,
+      name: "EMINEM",
+      time: "3:00 AM",
+      place: "📍 SCENE NAHDA",
+     },
 ]
 export default data 

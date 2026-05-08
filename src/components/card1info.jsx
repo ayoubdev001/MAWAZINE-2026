@@ -8,5 +8,4 @@ function Card1info({ artist }) {
     </div>
   )
 }
-
 export default Card1info

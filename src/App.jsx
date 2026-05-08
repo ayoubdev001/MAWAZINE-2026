@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App(){
       return(
       <>
-        <div className="min-h-screen bg-[#0B132B]">               
+        <div className=" min-h-screen mx-auto my-auto bg-[#0B132B]">               
 
             <BrowserRouter>
             <Header/> 
@@ -18,6 +18,7 @@ function App(){
                     <Route path="" element={<Home/>} />
                     <Route path="/home" element={<Home/>}/>
                     <Route path="/theprogram" element={<Theprogram/>}/>
+                    <Route path="/artists" element={<Theprogram/>}/>
                     <Route path="/artists/:id" element={<Artist/>}/>
                     <Route path="/planning" element={<Planning/>}/>
                     <Route path="/passport" element={<Passport/>}/>
