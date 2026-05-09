@@ -17,6 +17,7 @@ function Artist (){
         <div>
           
            <Card1info artist={artistData}/>
+           
 
         </div>
      )

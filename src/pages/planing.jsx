@@ -16,7 +16,7 @@ export function planning (){
   <div className="flex items-center justify-center text-lg">
   <p className="text-amber-200 text-2xl font-mono ">ARTIST</p></div>
   <span className="text-amber-200 text-2xl font-mono ">SCHEDULE</span>
-  <span className="text-amber-200 text-2xl font-mono ">GENER</span>
+  <span className="text-amber-200 text-2xl font-mono ">STAGE</span>
        </div>
 
                      
@@ -24,29 +24,29 @@ export function planning (){
        <div className=" flex justify-between p-3 border-2 border-gray-400 rounded-2xl">
   <div className="flex items-center justify-center text-lg">
   <p className="text-white font-mono ">HAJIB</p></div>
-  <span className="text-gray-500 ml-20 ">09:00 PM</span>
-  <span className="text-gray-500 ">Moroccan chaabi</span>
+  <span className="text-gray-500 ml-13 ">09:00 PM</span>
+  <span className="text-gray-500 ">📍 SCENE NAHDA</span>
        </div>
         
           <div className=" flex justify-between p-3 border-2 border-gray-400 rounded-2xl">
   <div className="flex items-center justify-center text-lg">
-  <p className="text-white font-mono flex-1">Saad Lamjarred</p></div>
-  <span className="text-gray-500 mr-7  ">11:00 PM</span>
-  <span className="text-gray-500 ">Moroccan pop</span>
+  <p className="text-white font-mono flex-1">Lamjarred</p></div>
+  <span className="text-gray-500   ">11:00 PM</span>
+  <span className="text-gray-500 ">📍 SCENE NAHDA</span>
        </div>
 
          <div className=" flex justify-between p-3 border-2 border-gray-400 rounded-2xl">
   <div className="flex items-center justify-center text-lg">
   <p className="text-white font-mono flex-1">7toun</p></div>
   <span className="text-gray-500 ml-12 ">01:00 PM</span>
-  <span className="text-gray-500 ">modern pop</span>
+  <span className="text-gray-500 ">📍 SCENE NAHDA</span>
        </div>
 
          <div className=" flex justify-between p-3 border-2 border-gray-400 rounded-2xl">
   <div className="flex items-center justify-center text-lg">
   <p className="text-white font-mono flex-1">Eminem</p></div>
   <span className="text-gray-500 ml-10 ">03:00 PM</span>
-  <span className="text-gray-500 ">Hip-hop, rap</span>
+  <span className="text-gray-500 ">📍 SCENE NAHDA</span>
        </div>
     
        </div>
